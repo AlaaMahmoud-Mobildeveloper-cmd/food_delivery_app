@@ -8,13 +8,13 @@ A modern, responsive mobile application designed to streamline the food ordering
 
 ## 📱 Screenshots
 
-|          Home & Browse           |         Restaurant Menu          |           Cart & Total           |
-|:--------------------------------:|:--------------------------------:|:--------------------------------:|
-| ![Home](assets/ScreenShot/1.png) | ![Menu](assets/ScreenShot/2.png) | ![Cart](assets/ScreenShot/3.png) |
+|           Home & Browse           |          Restaurant Menu          |           Cart & Total            |
+|:---------------------------------:|:---------------------------------:|:---------------------------------:|
+| ![Home](assets/ScreenShot/1.jpeg) | ![Menu](assets/ScreenShot/2.jpeg) | ![Cart](assets/ScreenShot/3.jpeg) |
 
-|          Authentication           |          Checkout & Payment          |
-|:---------------------------------:|:------------------------------------:|
-| ![Login](assets/ScreenShot/5.png) | ![Checkout](assets/ScreenShot/4.png) |
+|           Authentication           |          Checkout & Payment           |
+|:----------------------------------:|:-------------------------------------:|
+| ![Login](assets/ScreenShot/5.jpeg) | ![Checkout](assets/ScreenShot/4.jpeg) |
 
 *(Place your actual screenshot images in an `assets/screenshots/` folder and update the paths above)*
 
